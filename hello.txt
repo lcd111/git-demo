@@ -1,8 +1,8 @@
 
 hello lcd!666
 hello lcd!888
-hello lcd!
-hello lcd!
-hello lcd!
-hello lcd!
-hello lcd!
+hello lcd!777
+hello lcd!000
+hello lcd!999
+hello lcd!111
+hello lcd!222
