@@ -1,15 +1,5 @@
-S
-S
-S
-S
-S
-S
-S
-SS
 
-S
-SS
-hello lcd!
+hello lcd!666
 hello lcd!
 hello lcd!
 hello lcd!
